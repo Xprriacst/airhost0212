@@ -8,7 +8,7 @@ const Properties: React.FC = () => {
     {
       id: '1',
       name: 'Studio Blois',
-      address: '15 rue de l'Eglise, Blois',
+      address: '15 rue de du Bois, Blois',
       accessCodes: {
         wifi: {
           name: 'FREEBOX-FFRAC6',
