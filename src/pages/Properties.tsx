@@ -39,7 +39,7 @@ const Properties: React.FC = () => {
       checkInTime: '15:00',
       checkOutTime: '11:00',
       maxGuests: 6,
-      photos: ['https://unsplash.com/fr/photos/chaise-rembourree-blanche-encadree-en-bois-brun-entre-les-plantes-vertes-a-feuilles-dinterieur-a-linterieur-de-la-chambre-psrloDbaZc8']
+      photos: ['https://images.unsplash.com/photo-1564013799919-ab600027ffc6']
     }
   ]);
 
