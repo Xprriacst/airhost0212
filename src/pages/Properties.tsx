@@ -8,11 +8,11 @@ const Properties: React.FC = () => {
     {
       id: '1',
       name: 'Studio Blois',
-      address: '13 rue des Papegaults, Blois',
+      address: '15 rue de l'Eglise, Blois',
       accessCodes: {
         wifi: {
-          name: 'FREEBOX-AE4AC6',
-          password: 'barbani@%-solvi38-irrogatura-cannetum?&'
+          name: 'FREEBOX-FFRAC6',
+          password: '1234AZER'
         },
         door: '210'
       },
@@ -25,7 +25,7 @@ const Properties: React.FC = () => {
     },
     {
       id: '2',
-      name: 'Villa Sunset',
+      name: 'Logement Bayonne',
       address: '123 Avenue de la Plage, Biarritz',
       accessCodes: {
         wifi: {
@@ -39,7 +39,7 @@ const Properties: React.FC = () => {
       checkInTime: '15:00',
       checkOutTime: '11:00',
       maxGuests: 6,
-      photos: ['https://images.unsplash.com/photo-1564013799919-ab600027ffc6']
+      photos: ['https://unsplash.com/fr/photos/chaise-rembourree-blanche-encadree-en-bois-brun-entre-les-plantes-vertes-a-feuilles-dinterieur-a-linterieur-de-la-chambre-psrloDbaZc8']
     }
   ]);
 
